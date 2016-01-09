@@ -73,7 +73,9 @@ void GiaiPhuongTrinhBac2(int a, int b, int c){
 }
 
 int main(){
-	int a, b, c;
+	int a;
+	int b;
+	int c;
 	cout<<"Nhap vao A"; cin>>a;
 	cout<<"Nhap vao B"; cin>>b;
 	cout<<"Nhap vao C"; cin>>c;
