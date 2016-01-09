@@ -72,6 +72,10 @@ void GiaiPhuongTrinhBac2(int a, int b, int c){
 	}	
 }
 
+void GiaiPhuongTrinhBac1000(){
+	
+}
+
 int main(){
 	int a;
 	int b;
