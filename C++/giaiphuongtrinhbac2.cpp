@@ -31,6 +31,7 @@ void GiaiNghiemBac2Nhanh(int a, int b, int c){
 
 void GiaiPhuongTrinhBac2(int a, int b, int c){
 	if (a == 0){
+		GiaoPhuongTrinhBacNhat(b, c);	
 	}
 	else{
 		if(a + b + c == 0){			
