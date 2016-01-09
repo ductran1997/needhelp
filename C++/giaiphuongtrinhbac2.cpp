@@ -2,6 +2,10 @@
 #include <math.h>
 using namespace std;
 
+void GiaiPhuongTrinh1ty(){
+	
+}
+
 void GiaoPhuongTrinhBacNhat(int a, int b){
 	if(a == 0 && b == 0){
 		cout<<"phuong trinh vo so nghiem" <<endl;
